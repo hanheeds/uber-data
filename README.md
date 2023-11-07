@@ -1,8 +1,8 @@
-#Uber Data Analytics | End-To-End Data Engineering Project
+#Uber Data Analytics | End-To-End Data Engineering Project (todo)
 
-In this project, you will explore an Uber-like dataset. It was created by Darshil who makes, probably the best data engineer project videos on Youtube. This currently being the most popular.
+In this project, you will explore an Uber-like dataset. 
 
-By following the steps outlined in the video, you’ll learn how to build a data pipeline, model data and so much more.
+I learned how to build a data pipeline, model, and much more.
 
 The project involves the following steps:
 
